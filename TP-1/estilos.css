@@ -2,6 +2,14 @@
     text-align: center;
 }
 
+#fontcolor {
+    color: red;
+}
+
+#titulo {
+    text-decoration: underline;
+}
+
 #bandera {
     width: 500px;
 }
